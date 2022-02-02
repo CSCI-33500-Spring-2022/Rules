@@ -1,4 +1,4 @@
-# CSCI 33500: Software Design & Analysis III Programming Rules
+<!-- # CSCI 33500: Software Design & Analysis III Programming Rules -->
 
 It is **extremely important** to follow these rules. **Failure to follow them will result in a lower grade or no credit at all for your assignment**. Read the following carefully!
 
@@ -90,7 +90,7 @@ To check the version of your compiler, please type `g++ --version`. You can also
 6) All `cslab<X>` machines and `eniac` see the same directories for your account. That means that you see the *same* files in all machines.
 7) If you want to test your programs on one of the lab machines, you can use `sftp` to transfer your code to `eniac`. Then, you can `ssh` to `eniac` (see step 1), and, after that, `ssh` to any `cslab<X>` machine (see step 5).
 
-## Compiling Code with `g++`**
+## Compiling Code with `g++`
 
 ### [Separate Compilation and Linking with `g++`](https://cseweb.ucsd.edu//~kube/cls/100/Lectures/lec2/lec2-63.html)
 
