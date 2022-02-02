@@ -62,7 +62,7 @@ provide comments on top of functions in the implementation file). All non-trivia
 algorithms must be documented in plain English in a multi-line comment block.
 All non-trivial declarations must have adjoining, brief comments. There is no
 need to add documentation for obvious declarations.
-- A good resource for C++ style is the [one provided by Google](https://google.github.io/styleguide/cppguide.html)
+- A good resource for C++ style is the [one provided by Google](https://google.github.io/styleguide/cppguide.html).
 
 ## Academic Integrity
 
