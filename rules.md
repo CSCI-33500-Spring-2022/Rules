@@ -1,4 +1,4 @@
-<!-- # CSCI 33500: Software Design & Analysis III Programming Rules -->
+# CSCI 33500: Software Design & Analysis III Programming Rules
 
 It is **extremely important** to follow these rules. **Failure to follow them will result in a lower grade or no credit at all for your assignment**. Read the following carefully!
 
