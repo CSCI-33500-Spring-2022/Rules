@@ -41,7 +41,7 @@ will help you discover if your project has problems. And, you will have time to 
 - The **official compiler** for this class is the GNU C++ Compiler (`g++`) and the version installed in the lab machines **g++ version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)**.
 - Although Gradescope allows multiple submissions, it is not a platform for testing or debugging; it should not be used for that. You *must* test and debug your program *locally*. *Before* submitting to Gradescope, you *must* ensure that your program compiles (with `g++`) and runs correctly on one of the Linux machines in 1001B lab at Hunter North. The lab machine is your baseline. If it runs correctly there, it will run correctly on Gradescope, and if it does not, you will have the necessary feedback (compiler error messages, debugger or program output) to guide you in debugging. You may not have this information from Gradescope. Lab machines can be accessed remotely. "But it ran on my machine!" is not a valid excuse for a submission that does not compile during the grading process.
 - If you do not have an account in 1001B lab, please email me before the second
-class of the semester with the email subject "CSCI 33500: 1001B lab account." Note, that you can access the lab machines remotely.
+class of the semester with the email subject "CSCI 33500: 1001B lab account." Note that you can access the lab machines remotely.
 
 ## General Grading Rubric
 
@@ -82,13 +82,13 @@ The 1001B laboratory is located on the 10<sup>th</sup> floor of Hunter North. Yo
 
 To check the version of your compiler, please type `g++ --version`. You can also remotely login to the lab machines as follows:
 
-1) `ssh <your_username>@eniac.cs.hunter.cuny.edu`
-2) Type your password.
-3) Now, you are at a gateway machine that is called `eniac`.
-4) Do *not* do any processing on `eniac`. Just `ssh` through `eniac` to one of the machines in the lab (see next step).
-5) `ssh <your_username>@cslab<X>.cs.hunter.cuny.edu`, where `<X>` is the number `1` through `29`. You can pick *any* machine. If the machine is down, you can try another. For instance, to log into the 2<sup>nd</sup> machine, type: `ssh <your_username>@cslab2.cs.hunter.cuny.edu`
-6) All `cslab<X>` machines and `eniac` see the same directories for your account. That means that you see the *same* files in all machines.
-7) If you want to test your programs on one of the lab machines, you can use `sftp` to transfer your code to `eniac`. Then, you can `ssh` to `eniac` (see step 1), and, after that, `ssh` to any `cslab<X>` machine (see step 5).
+1. `ssh <your_username>@eniac.cs.hunter.cuny.edu`
+1. Type your password.
+1. Now, you are at a gateway machine that is called `eniac`.
+1. Do *not* do any processing on `eniac`. Just `ssh` through `eniac` to one of the machines in the lab (see next step).
+1. `ssh <your_username>@cslab<X>.cs.hunter.cuny.edu`, where `<X>` is the number `1` through `29`. You can pick *any* machine. If the machine is down, you can try another. For instance, to log into the 2<sup>nd</sup> machine, type: `ssh <your_username>@cslab2.cs.hunter.cuny.edu`
+1. All `cslab<X>` machines and `eniac` see the same directories for your account. That means that you see the *same* files in all machines.
+1. If you want to test your programs on one of the lab machines, you can use `sftp` to transfer your code to `eniac`. Then, you can `ssh` to `eniac` (see step 1), and, after that, `ssh` to any `cslab<X>` machine (see step 5).
 
 ## Compiling Code with `g++`
 
