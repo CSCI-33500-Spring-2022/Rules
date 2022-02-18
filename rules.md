@@ -8,9 +8,7 @@ You should also follow closely the instructions on each programming assignment f
 
 ## Submission
 
-All programming projects must be submitted on Gradescope no later than the due date. You have been sent email invitations from Gradescope. Make sure
-you login to your Gradescope account. If you have problems logging into
-Gradescope, seek help from the UTAs during tutoring sessions.
+All programming projects must be submitted on Gradescope using GitHub Classroom no later than the due date. You have been sent email invitations from Gradescope and GitHub Classroom. Make sure you login to your Gradescope account and accept GitHub Classroom assignment invitations. Associate your **EMPLID with your GitHub account** so that we can find you. If you have problems logging into Gradescope or GitHub Classroom, seek help from the UTAs during tutoring sessions.
 <!-- Gradescope accounts will be set by Monday Sept 30 before class. First assignment is due on 9/16. -->
 
 ## Submission Contents
